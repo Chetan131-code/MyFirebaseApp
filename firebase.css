@@ -1,0 +1,22 @@
+MyFirebaseApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/myfirebaseapp/
+│   │   │   │   ├── LoginActivity.java
+│   │   │   │   ├── MainActivity.java
+│   │   │   │   ├── ProfileFragment.java
+│   │   │   │   ├── CertificateFragment.java
+│   │   │   │   ├── ChatFragment.java
+│   │   │   │   ├── ScoreFragment.java
+│   │   │   │   ├── WinCertificateActivity.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   ├── activity_login.xml
+│   │   │   │   │   ├── activity_main.xml
+│   │   │   │   │   ├── fragment_profile.xml
+│   │   │   │   │   ├── fragment_certificate.xml
+│   │   │   │   │   ├── fragment_chat.xml
+│   │   │   │   │   ├── fragment_score.xml
+│   │   │   │   │   ├── activity_win_certificate.xml
+├── AndroidManifest.xml
